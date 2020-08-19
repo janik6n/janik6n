@@ -1,8 +1,8 @@
-### Hi there 👋
+# Hi there 👋
 
-[Go and read my blog!](https://janik6n.net)
+[Go and read my blog!](https://janik6n.net) 📌
 
-## Latest articles
+## Latest articles 📚
 
 - [Running Azure CLI in Docker container](https://janik6n.net/running-azure-cli-in-docker-container)
 - [Makeshift Tree for macOS](https://janik6n.net/makeshift-tree-for-macos)
