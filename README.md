@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Go and read my blog!](https://janik6n.net)
+
 <!--
 **janik6n/janik6n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
