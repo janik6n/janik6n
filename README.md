@@ -1,6 +1,6 @@
 # Hi there 👋
 
-📌 [Go and read my blog!](https://janik6n.net)
+📌  [Go and read my blog!](https://janik6n.net)
 
 ## 📚 Latest articles
 
