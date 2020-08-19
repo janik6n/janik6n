@@ -1,12 +1,14 @@
+import datetime
 import os
 import pathlib
 
 root = pathlib.Path(__file__).parent.resolve()
+DEMO_TOKEN = os.environ.get("DEMO_TOKEN", "")
 
 if __name__ == "__main__":
     readme = root / "README.md"
     
-    new_content = '''
+    new_content = f'''
 # Hi there 👋
 
 📌  [Go and read my blog!](https://janik6n.net)
@@ -21,7 +23,8 @@ if __name__ == "__main__":
 <!--
 **janik6n/janik6n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-This is new, updated again.
+This is updated at {datetime.datetime.now()}.
+{DEMO_TOKEN}.
 
 Here are some ideas to get you started:
 
