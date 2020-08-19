@@ -2,6 +2,13 @@
 
 [Go and read my blog!](https://janik6n.net)
 
+## Latest articles
+
+- [Running Azure CLI in Docker container](https://janik6n.net/running-azure-cli-in-docker-container)
+- [Makeshift Tree for macOS](https://janik6n.net/makeshift-tree-for-macos)
+- [Azure App Service - "503 Service Unavailable"](https://janik6n.net/azure-app-service-503-service-unavailable)
+- [Build a blog article in Markdown on the iPad with Shortcuts](https://janik6n.net/build-a-blog-article-in-markdown-on-the-ipad-with-shortcuts)
+
 <!--
 **janik6n/janik6n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
