@@ -11,6 +11,8 @@ if __name__ == "__main__":
     new_content = f'''
 # Hi there 👋
 
+Builder of things with code and the Cloud. Creator of pictures and videos. Explorer of minimalism. Learner.
+
 📌  [Go and read my blog!](https://janik6n.net)
 
 ## 📚 Latest articles
