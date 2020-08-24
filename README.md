@@ -1,6 +1,8 @@
 
 # Hi there 👋
 
+Builder of things with code and the Cloud. Creator of pictures and videos. Explorer of minimalism. Learner.
+
 📌  [Go and read my blog!](https://janik6n.net)
 
 ## 📚 Latest articles
@@ -13,7 +15,7 @@
 <!--
 **janik6n/janik6n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-This is updated at 2020-08-24 03:06:47.915697.
+This is updated at 2020-08-24 10:41:37.997819.
 Hello.
 
 Here are some ideas to get you started:
