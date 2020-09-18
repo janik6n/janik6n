@@ -7,6 +7,7 @@ Builder of things with code and the Cloud. Creator of pictures and videos. Explo
 
 ## 📚 Latest articles
 
+- [Simplifying Social Media Sharing with Azure Logic Apps and iOS Shortcuts](https://janik6n.net/simplifying-social-media-sharing-with-azure-logic-apps-and-ios-shortcuts)
 - [Running Azure CLI in Docker container](https://janik6n.net/running-azure-cli-in-docker-container)
 - [Makeshift Tree for macOS](https://janik6n.net/makeshift-tree-for-macos)
 - [Azure App Service - "503 Service Unavailable"](https://janik6n.net/azure-app-service-503-service-unavailable)
@@ -16,7 +17,7 @@ Builder of things with code and the Cloud. Creator of pictures and videos. Explo
 <!--
 **janik6n/janik6n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-This is updated at 2020-09-18 03:07:46.941578.
+This is updated at 2020-09-18 08:34:18.805274.
 Hello.
 
 Here are some ideas to get you started:
