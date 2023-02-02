@@ -15,12 +15,10 @@
 - [Build a blog article in Markdown on the iPad with Shortcuts](https://janik6n.net/build-a-blog-article-in-markdown-on-the-ipad-with-shortcuts)
 - [Secure access from AWS CLI with Cross Account Access and MFA](https://janik6n.net/secure-access-from-aws-cli-with-cross-account-access-and-mfa)
 
-<a rel="me" href="https://mstdn.social/@janik6n">Mastodon profile</a>
-
 <!--
 **janik6n/janik6n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-This is updated at 2022-07-06 20:24:36.917577.
+This is updated at 2023-02-02 18:56:23.014066.
 Hello.
 
 Here are some ideas to get you started:
