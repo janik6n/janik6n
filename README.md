@@ -15,6 +15,8 @@
 - [Build a blog article in Markdown on the iPad with Shortcuts](https://janik6n.net/build-a-blog-article-in-markdown-on-the-ipad-with-shortcuts)
 - [Secure access from AWS CLI with Cross Account Access and MFA](https://janik6n.net/secure-access-from-aws-cli-with-cross-account-access-and-mfa)
 
+<a rel="me" href="https://mstdn.social/@janik6n">Mastodon profile</a>
+
 <!--
 **janik6n/janik6n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
