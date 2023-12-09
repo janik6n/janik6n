@@ -1,11 +1,12 @@
 # Hi there 👋
 
-☁️ IaC Tech Lead / Cloud Consultant / Architect / Developer 📚 Reading, learning & MTB
+☁️ Cloud Consultant / Architect / Developer 📚 Reading, learning & MTB
 
 📌  [Go and read my blog!](https://janik6n.net)
 
 ## 📚 Selected articles
 
+- [Manage multiple Terraform projects in monorepo](https://janik6n.net/posts/manage-multiple-terraform-projects-in-monorepo/)
 - [Publishing a Next.js site on Azure Static Web Apps with GitHub Actions](https://janik6n.net/publishing-a-next-js-site-on-azure-static-web-apps-with-github-actions)
 - [Cross-posting new articles to LinkedIn, Mastodon and Twitter with Azure Logic Apps](https://janik6n.net/cross-posting-new-articles-to-linkedin-mastodon-and-twitter-with-azure-logic-apps)
 - [Signing git commits with SSH key](https://janik6n.net/signing-git-commits-with-ssh-key)
