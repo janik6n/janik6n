@@ -1,24 +1,22 @@
 # Hi there 👋
 
-☁️ IaC Tech Lead / Cloud Consultant / Architect / Developer 📚 Reading, learning, investing & MTB
+☁️ Cloud Consultant / Architect / Developer 📚 Reading, learning & MTB 🇫🇮
 
 📌  [Go and read my blog!](https://janik6n.net)
 
 ## 📚 Selected articles
 
-- [Just enough git and GitHub to be productive](https://janik6n.net/just-enough-git-and-github-to-be-productive)
-- [Maintain local Node.js installation with nvm](https://janik6n.net/maintain-local-nodejs-installation-with-nvm)
-- [Simplifying Social Media Sharing with Azure Logic Apps and iOS Shortcuts](https://janik6n.net/simplifying-social-media-sharing-with-azure-logic-apps-and-ios-shortcuts)
-- [Running Azure CLI in Docker container](https://janik6n.net/running-azure-cli-in-docker-container)
-- [Find out my public IP on the terminal](https://janik6n.net/find-out-my-public-ip-on-the-terminal)
-- [Azure App Service - "503 Service Unavailable"](https://janik6n.net/azure-app-service-503-service-unavailable)
-- [Build a blog article in Markdown on the iPad with Shortcuts](https://janik6n.net/build-a-blog-article-in-markdown-on-the-ipad-with-shortcuts)
-- [Secure access from AWS CLI with Cross Account Access and MFA](https://janik6n.net/secure-access-from-aws-cli-with-cross-account-access-and-mfa)
-
+- [Better Terraform modules with five good practices](https://janik6n.net/posts/better-terraform-modules-with-five-good-practices)
+- [Manage multiple Terraform projects in monorepo](https://janik6n.net/posts/manage-multiple-terraform-projects-in-monorepo/)
+- [Publishing a Next.js site on Azure Static Web Apps with GitHub Actions](https://janik6n.net/posts/publishing-a-next-js-site-on-azure-static-web-apps-with-github-actions)
+- [Signing git commits with SSH key](https://janik6n.net/posts/signing-git-commits-with-ssh-key)
+- [Just enough git and GitHub to be productive](https://janik6n.net/posts/just-enough-git-and-github-to-be-productive)
+- [Maintain local Node.js installation with nvm](https://janik6n.net/posts/maintain-local-nodejs-installation-with-nvm)
+  
 <!--
 **janik6n/janik6n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-This is updated at 2024-08-27 16:42:34.373891.
+This is updated at 2023-02-03 20:10:12.912728.
 Hello.
 
 Here are some ideas to get you started:
