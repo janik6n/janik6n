@@ -6,16 +6,13 @@
 
 ## 📚 Selected articles
 
+- [Better Terraform modules with five good practices](https://janik6n.net/posts/better-terraform-modules-with-five-good-practices)
 - [Manage multiple Terraform projects in monorepo](https://janik6n.net/posts/manage-multiple-terraform-projects-in-monorepo/)
-- [Publishing a Next.js site on Azure Static Web Apps with GitHub Actions](https://janik6n.net/publishing-a-next-js-site-on-azure-static-web-apps-with-github-actions)
-- [Cross-posting new articles to LinkedIn, Mastodon and Twitter with Azure Logic Apps](https://janik6n.net/cross-posting-new-articles-to-linkedin-mastodon-and-twitter-with-azure-logic-apps)
-- [Signing git commits with SSH key](https://janik6n.net/signing-git-commits-with-ssh-key)
-- [Just enough git and GitHub to be productive](https://janik6n.net/just-enough-git-and-github-to-be-productive)
-- [Maintain local Node.js installation with nvm](https://janik6n.net/maintain-local-nodejs-installation-with-nvm)
-- [Running Azure CLI in Docker container](https://janik6n.net/running-azure-cli-in-docker-container)
-- [Find out my public IP on the terminal](https://janik6n.net/find-out-my-public-ip-on-the-terminal)
-- [Secure access from AWS CLI with Cross Account Access and MFA](https://janik6n.net/secure-access-from-aws-cli-with-cross-account-access-and-mfa)
-
+- [Publishing a Next.js site on Azure Static Web Apps with GitHub Actions](https://janik6n.net/posts/publishing-a-next-js-site-on-azure-static-web-apps-with-github-actions)
+- [Signing git commits with SSH key](https://janik6n.net/posts/signing-git-commits-with-ssh-key)
+- [Just enough git and GitHub to be productive](https://janik6n.net/posts/just-enough-git-and-github-to-be-productive)
+- [Maintain local Node.js installation with nvm](https://janik6n.net/posts/maintain-local-nodejs-installation-with-nvm)
+  
 <!--
 **janik6n/janik6n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
