@@ -16,6 +16,8 @@
 
 ## 📚 Selected articles
 
+- [Build and publish auditable container images with SBOM and SLSA attestation to Azure Container Registry using GitHub Actions](https://janik6n.net/posts/build-and-publish-auditable-container-images-with-sbom-and-slsa-attestation-to-azure-container-registry-using-github-actions/)
+- [Run security scans on Terraform and OpenTofu projects with Trivy and GitHub Actions](https://janik6n.net/posts/run-security-scans-on-terraform-and-opentofu-project-with-trivy-and-github-actions/)
 - [Getting started with Azure Container Apps Jobs](https://janik6n.net/posts/getting-started-with-azure-container-apps-jobs/)
 - [Better Terraform modules with five good practices](https://janik6n.net/posts/better-terraform-modules-with-five-good-practices)
 - [Manage multiple Terraform projects in monorepo](https://janik6n.net/posts/manage-multiple-terraform-projects-in-monorepo/)
