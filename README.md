@@ -4,6 +4,7 @@
 
 ![Azure](https://shields.io/badge/Azure-0078D4?logo=Azure&logoColor=FFF&style=flat-square)
 ![AWS](https://shields.io/badge/AWS-252F3E?logo=amazonwebservices&logoColor=FFF&style=flat-square)
+![GCP](https://shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=FFF&style=flat-square)
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Go](https://shields.io/badge/Go-00ADD8?logo=Go&logoColor=FFF&style=flat-square)
 ![Terraform](https://shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=FFF&style=flat-square)
