@@ -1,6 +1,6 @@
 # Hi there 👋
 
-☁️ Cloud Consultant / Architect / Developer 📚 Reading, learning & MTB 🇫🇮
+☁️ Cloud Architect & Builder 📚 Reading, learning & MTB 🇫🇮
 
 ![Azure](https://shields.io/badge/Azure-0078D4?logo=Azure&logoColor=FFF&style=flat-square)
 ![AWS](https://shields.io/badge/AWS-252F3E?logo=amazonwebservices&logoColor=FFF&style=flat-square)
